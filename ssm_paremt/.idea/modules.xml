@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/学习资料/SSM/maven高级双元/代码/maven_day02_1/maven_day02_1.iml" filepath="E:/学习资料/SSM/maven高级双元/代码/maven_day02_1/maven_day02_1.iml" />
+      <module fileurl="file://E:/学习资料/SSM/maven高级双元/代码/maven_day02_parent/maven_day02_dao/maven_day02_dao.iml" filepath="E:/学习资料/SSM/maven高级双元/代码/maven_day02_parent/maven_day02_dao/maven_day02_dao.iml" />
+      <module fileurl="file://E:/学习资料/SSM/maven高级双元/代码/maven_day02_parent/maven_day02_parent.iml" filepath="E:/学习资料/SSM/maven高级双元/代码/maven_day02_parent/maven_day02_parent.iml" />
+      <module fileurl="file://E:/学习资料/SSM/maven高级双元/代码/maven_day02_parent/maven_day02_service/maven_day02_service.iml" filepath="E:/学习资料/SSM/maven高级双元/代码/maven_day02_parent/maven_day02_service/maven_day02_service.iml" />
+      <module fileurl="file://E:/学习资料/SSM/maven高级双元/代码/maven_day02_parent/maven_day02_web/maven_day02_web.iml" filepath="E:/学习资料/SSM/maven高级双元/代码/maven_day02_parent/maven_day02_web/maven_day02_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_dao/ssm_dao.iml" filepath="$PROJECT_DIR$/ssm_dao/ssm_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_paremt.iml" filepath="$PROJECT_DIR$/ssm_paremt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_service/ssm_service.iml" filepath="$PROJECT_DIR$/ssm_service/ssm_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_web/ssm_web.iml" filepath="$PROJECT_DIR$/ssm_web/ssm_web.iml" />
+    </modules>
+  </component>
+</project>
