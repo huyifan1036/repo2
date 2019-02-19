@@ -2,4 +2,4 @@ target
 *.class
 build/
 *.iml
-.ideal/
+.idea/
